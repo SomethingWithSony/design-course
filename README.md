@@ -15,10 +15,11 @@ Welcome to my frontend development repository! Here, I'll be storing all project
 - [Figma Design Files](https://www.figma.com/community/file/1154460535210746004/interactive-css-course)
 
 ## 🏗️ Project Structure
-design-name
-    /css
-    /assets
-    index.html
+
+- design-name
+-    /css
+-    /assets
+-    index.html
 
 ## 🛠️ Technologies Used
 HTML5
