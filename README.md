@@ -16,10 +16,10 @@ Welcome to my frontend development repository! Here, I'll be storing all project
 
 ## 🏗️ Project Structure
 
-design-name
-    /css
-    /assets
-    index.html
+├── design-name/  
+│ ├── css/  
+│ ├── assets/  
+│ ├── index.html
 
 ## 🛠️ Technologies Used
 HTML5
