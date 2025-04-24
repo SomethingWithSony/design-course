@@ -16,7 +16,7 @@ Welcome to my frontend development repository! Here, I'll be storing all project
 
 ## 🏗️ Project Structure
 
-├── design-name/  
+design-name/  
 │ ├── css/  
 │ ├── assets/  
 │ ├── index.html
